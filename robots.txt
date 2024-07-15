@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stiveryo.github.io/sitemap
+Sitemap: https://stiveryo.github.io/app/sitemap
+Sitemap: https://stiveryo.github.io/assets/sitemap
+Sitemap: https://stiveryo.github.io/css/sitemap
+Sitemap: https://stiveryo.github.io/includes/sitemap
+Sitemap: https://stiveryo.github.io/item/sitemap
+Sitemap: https://stiveryo.github.io/src/sitemap
